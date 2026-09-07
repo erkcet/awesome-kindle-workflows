@@ -49,6 +49,7 @@ This list emphasizes maintained tools, official documentation, privacy-conscious
 - [calibre News Recipes](https://manual.calibre-ebook.com/news.html) - Scheduled feed and website conversion into e-book periodicals.
 - [calibre Recipe API](https://manual.calibre-ebook.com/news_recipe.html) - Python API for custom news-fetching and content-cleaning recipes.
 - [KindleEar](https://github.com/cdhigh/KindleEar) - Self-hostable service that aggregates feeds and delivers periodicals to e-readers.
+- [RSS to Kindle](https://www.rsstokindle.com/) - Hosted service that extracts full article text from RSS and Substack feeds and delivers it to a Kindle as a daily EPUB digest.
 - [EpubPress](https://epub.press/) - Browser extension that bundles selected web pages into a single EPUB.
 - [wallabag-kindle-consumer](https://github.com/janLo/wallabag-kindle-consumer) - Sends tagged articles from a self-hosted wallabag account to Kindle.
 
