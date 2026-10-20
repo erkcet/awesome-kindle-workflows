@@ -56,6 +56,7 @@ This list emphasizes maintained tools, official documentation, privacy-conscious
 
 - [Kindle Notebook](https://read.amazon.com/notebook) - Official web view for synchronized highlights and notes.
 - [Readwise](https://readwise.io/) - Synchronizes Kindle highlights with review, note-taking, and knowledge-management workflows.
+- [Screvi](https://screvi.com/) - Synchronizes Kindle highlights daily from the browser extension, mobile app, or `My Clippings.txt` for spaced-repetition review and export to Obsidian, Notion, and Markdown.
 - [Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/) - Local browser tool that exports highlights to Markdown, CSV, or JSON.
 - [noted](https://github.com/codito/noted) - Command-line workflow for exporting Kindle notes and highlights.
 - [kindle2notion](https://github.com/paperboi/kindle2notion) - Imports Kindle clippings into a Notion database.
