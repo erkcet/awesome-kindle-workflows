@@ -43,6 +43,7 @@ This list emphasizes maintained tools, official documentation, privacy-conscious
 - [E-book Conversion](https://manual.calibre-ebook.com/conversion.html) - Guidance for converting and tuning documents for e-readers with calibre.
 - [Send to Kindle for Chrome](https://www.amazon.com/sendtokindle/chrome) - Official browser extension for sending web pages to a Kindle library.
 - [Push to Kindle](https://www.fivefilters.org/push-to-kindle/) - Browser and mobile tools for turning readable web pages into Kindle documents.
+- [BetterPDF Convert](https://betterpdfconvert.com/) - Converts EPUB, AZW3, and MOBI files into PDF with preserved clickable Table of Contents bookmarks and E-ink/Kindle A5 margin presets.
 
 ## Articles and Periodicals
 
